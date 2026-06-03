@@ -1,0 +1,25 @@
+source_file,year,sheet_rows,clean_rows,unique_airports,service_levels,data_scope,enplanements_total,enplanement_source_column
+cy01_commercial.xls,2001,136,134,134,CS,commercial_service_source,659397,2001 Boardings
+cy01_primary.xls,2001,403,402,402,P,primary_only_source,659422828,2001 Boardings
+cy02_all_primary.xls,2002,1988,509,509,"CS,P",commercial_service_source,643776534,CY 2002 Boardings
+cy03_commercial.xls,2003,520,513,513,"CS,P",commercial_service_source,650808785,CY 2003 Enplanements
+cy04_commercial_state.xls,2004,1938,517,517,"CS,P",commercial_service_source,705496030,CY 2004 Boardings
+cy05_all_enplanements.xls,2005,1949,514,514,"CS,P",commercial_service_source,736202261,CY 05 Enplanements
+cy06_primary_np_comm.xls,2006,528,522,522,"CS,P",commercial_service_source,738364097,CY 06 Boardings
+cy07_primary_np_comm.xls,2007,527,527,527,"CS,P",commercial_service_source,762397236,CY2007 Enplanements
+cy08_primary_np_comm.xls,2008,506,503,503,"CS,P",commercial_service_source,735296907,CY08 Enplanements
+cy09_cs_enplanements.xls,2009,504,494,494,"CS,P",commercial_service_source,696769131,CY 09 Boardings
+cy10_primary_enplanements.xls,2010,382,377,377,P,primary_only_source,712025632,CY 10 Enplanements
+cy11_primary_enplanements.xlsx,2011,392,387,387,P,primary_only_source,724158444,CY 11 Enplanements
+CY12CommercialServiceEnplanements.xlsx,2012,521,514,514,"CS,P",commercial_service_source,731800470,CY 12 Enplanements
+cy13-commercial-service-enplanements.xlsx,2013,512,506,506,"CS,P",commercial_service_source,738935380,CY 13 Enplanements
+cy14-commercial-service-enplanements.xlsx,2014,517,510,510,"CS,P",commercial_service_source,761288443,CY 14 Enplanements
+cy15-commercial-service-enplanements.xlsx,2015,503,503,503,"CS,P",commercial_service_source,799311160,CY 15 Enplanements
+cy16-commercial-service-enplanements.xlsx,2016,512,506,506,"CS,P",commercial_service_source,829292893,CY 16 Enplanements
+cy17-commercial-service-enplanements.xlsx,2017,517,511,511,"CS,P",commercial_service_source,857213313,CY 17 Enplanements
+cy18-commercial-service-enplanements.xlsx,2018,525,519,519,"CS,P",commercial_service_source,899710601,CY 18 Enplanements
+cy19-commercial-service-enplanements.xlsx,2019,528,522,522,"CS,P",commercial_service_source,935693527,CY 19 Enplanements
+cy20-commercial-service-enplanements.xlsx,2020,452,446,446,"CS,P",commercial_service_source,368245490,CY 20 Enplanements
+cy21-commercial-service-enplanements.xlsx,2021,484,478,478,"CS,P",commercial_service_source,655025664,CY 21 Enplanements
+cy22-commercial-service-enplanements.xlsx,2022,512,506,506,"CS,P",commercial_service_source,847265216,CY 22 Enplanements
+cy23-commercial-service-enplanements.xlsx,2023,502,502,502,"CS,P",commercial_service_source,943968466,CY 23 Enplanements
